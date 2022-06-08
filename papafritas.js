@@ -1,0 +1,1 @@
+var fritas = "ricas"
